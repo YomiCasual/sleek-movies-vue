@@ -1,4 +1,4 @@
-# About Projects
+# About Project
 
 ## Sleek Movie
 
